@@ -3,9 +3,9 @@
 `strutils` is a small library written in Go for demonstrating how to write a
 package from scratch. It includes small utility involving strings.
 
---
+---
 
-## Installatio
+## Installation
 
 Go to you project root, where `go.mod` exists. Then run the following command in your shell:
 
@@ -35,7 +35,7 @@ func main(){
 
 ## Contributor(s)
 
-* (Ömer Faruk Çavuş)[https://github.com/byhowe]
+* [Ömer Faruk Çavuş](https://github.com/byhowe)
 
 ## License
 
