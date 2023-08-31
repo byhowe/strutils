@@ -10,7 +10,7 @@ package from scratch. It includes small utility involving strings.
 Go to you project root, where `go.mod` exists. Then run the following command in your shell:
 
 ``` shell
-go get github.com/byhowe/strutils-demo
+go get github.com/byhowe/strutils
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/byhowe/strutils-demo"
+	"github.com/byhowe/strutils"
 )
 
 func main(){

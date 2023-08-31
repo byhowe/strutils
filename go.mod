@@ -1,3 +1,3 @@
-module github.com/byhowe/strutils-demo
+module github.com/byhowe/strutils
 
 go 1.21.0
