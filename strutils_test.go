@@ -6,7 +6,7 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"github.com/byhowe/strutils"
+	"github.com/byhowe/strutils-demo"
 )
 
 func FuzzReverse(f *testing.F) {

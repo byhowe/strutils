@@ -10,7 +10,7 @@ package from scratch. It includes small utility involving strings.
 Go to you project root, where `go.mod` exists. Then run the following command in your shell:
 
 ``` shell
-go get github.com/byhowe/strutils
+go get github.com/byhowe/strutils-demo
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ import (
 )
 
 func main(){
-	reversed, err := stringutils.Reverse("byhowe")
+	reversed, err := strutils.Reverse("byhowe")
 	if err != nil {
 		log.Fatal(err)
 	}    
